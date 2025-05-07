@@ -18,7 +18,7 @@ $\sigma_{ij}^{total} = C_{ijkl}\left[\varepsilon_{kl}^{mech} - \alpha_{th}(T-T_0
 - $M_s$: Saturation magnetization [A/m]
 
 ## Equation 2: Magnetic Field-Induced Body Force Density
-$\vec{f}_{mag} = \sigma\left[(\vec{v}_{laser} \times \vec{B}) \times \vec{B}\right] + \mu_0(M\cdot\nabla)H + \frac{1}{2}\mu_0\nabla(M\cdot H) + \nabla\left[\frac{\partial}{\partial B}(C_{ijkl}\varepsilon_{kl}^{mag})\right]$
+\vec{f}_{mag} = \sigma\left[(\vec{v}_{laser} \times \vec{B}) \times \vec{B}\right] + \mu_0(M\cdot\nabla)H + \frac{1}{2}\mu_0\nabla(M\cdot H) + \nabla\left[\frac{\partial}{\partial B}(C_{ijkl}\varepsilon_{kl}^{mag})\right]
 
 - $\vec{f}_{mag}$: Magnetic body force density [N/m³]
 - $\sigma$: Electrical conductivity [S/m]
